@@ -77,14 +77,6 @@ Now you have vim-rails installed ;-)
 
 ### Plugin related mappings
 
-Open [bufexplorer](https://github.com/vim-scripts/bufexplorer.zip) and see and manage the current buffers:
-
-    map <leader>o :BufExplorer<cr>
-
-Open [MRU.vim](https://github.com/vim-scripts/mru.vim) and see the recently open files:
-
-    map <leader>f :MRU<CR>
-
 Open [ctrlp.vim](https://github.com/kien/ctrlp.vim) plugin:
 
     let g:ctrlp_map = '<c-f>'
