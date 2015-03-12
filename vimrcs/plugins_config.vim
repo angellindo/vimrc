@@ -89,8 +89,6 @@ au FileType mako vmap Si S"i${ _(<esc>2f"a) }<esc>
 let g:airline_theme="badwolf"
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
-let g:airline#extensions#tabline#left_sep = ' '
-let g:airline#extensions#tabline#left_alt_sep = '|'
 " Show just the filename
 let g:airline#extensions#tabline#fnamemod = ':t'
 

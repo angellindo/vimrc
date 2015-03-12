@@ -23,4 +23,5 @@ set smarttab
 set expandtab
 
 :map <c-d> Yp
-
+:map <F11> :bp<CR>
+:map <F12> :bn<CR>
