@@ -41,6 +41,7 @@ let g:ctrlp_custom_ignore = 'node_modules\|^\.DS_Store\|^\.git\|^\.coffee'
 """"""""""""""""""""""""""""""
 " Enable all functions in all modes
 let g:user_emmet_mode='a'
+autocmd BufRead,BufNewFile *.less set filetype=css
 
 
 """"""""""""""""""""""""""""""
