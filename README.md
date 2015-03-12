@@ -8,8 +8,11 @@ Based on the awesome configuration from amix/vimrc.
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following:
 
 	git clone git://github.com/amix/vimrc.git ~/.vim_runtime
-  git submodule init
-  git submodule update
+	
+  	git submodule init
+  
+  	git submodule update
+  	
 	sh ~/.vim_runtime/install_awesome_vimrc.sh
 
 The taglist.vim plugin will require ctags (http://ctags.sourceforge.net) (Debian: apt-get install ctags)
