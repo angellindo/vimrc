@@ -64,3 +64,12 @@
 [submodule "sources_non_forked/vim-javascript"]
 	path = sources_non_forked/vim-javascript
 	url = https://github.com/pangloss/vim-javascript
+[submodule "sources_non_forked/emmet-vim"]
+	path = sources_non_forked/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "sources_non_forked/YankRing.vim"]
+	path = sources_non_forked/YankRing.vim
+	url = https://github.com/vim-scripts/YankRing.vim.git
+[submodule "sources_non_forked/indentLine"]
+	path = sources_non_forked/indentLine
+	url = https://github.com/Yggdroot/indentLine
