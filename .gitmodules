@@ -1,0 +1,66 @@
+[submodule "sources_non_forked/ack.vim"]
+	path = sources_non_forked/ack.vim
+	url = https://github.com/mileszs/ack.vim
+[submodule "sources_non_forked/ctrlp.vim"]
+	path = sources_non_forked/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
+[submodule "sources_non_forked/nerdtree"]
+	path = sources_non_forked/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "sources_non_forked/open_file_under_cursor.vim"]
+	path = sources_non_forked/open_file_under_cursor.vim
+	url = https://github.com/amix/open_file_under_cursor.vim
+[submodule "sources_non_forked/snipmate-snippets"]
+	path = sources_non_forked/snipmate-snippets
+	url = https://github.com/scrooloose/snipmate-snippets.git
+[submodule "sources_non_forked/syntastic"]
+	path = sources_non_forked/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "sources_non_forked/tagbar"]
+	path = sources_non_forked/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "sources_non_forked/tlib_vim"]
+	path = sources_non_forked/tlib_vim
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "sources_non_forked/vim-addon-mw-utils"]
+	path = sources_non_forked/vim-addon-mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "sources_non_forked/vim-airline"]
+	path = sources_non_forked/vim-airline
+	url = https://github.com/bling/vim-airline.git
+[submodule "sources_non_forked/vim-commentary"]
+	path = sources_non_forked/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "sources_non_forked/vim-expand-region"]
+	path = sources_non_forked/vim-expand-region
+	url = https://github.com/terryma/vim-expand-region.git
+[submodule "sources_non_forked/vim-indent-object"]
+	path = sources_non_forked/vim-indent-object
+	url = https://github.com/michaeljsmith/vim-indent-object.git
+[submodule "sources_non_forked/vim-less"]
+	path = sources_non_forked/vim-less
+	url = https://github.com/groenewege/vim-less.git
+[submodule "sources_non_forked/vim-repeat"]
+	path = sources_non_forked/vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "sources_non_forked/vim-snippets"]
+	path = sources_non_forked/vim-snippets
+	url = https://github.com/honza/vim-snippets
+[submodule "sources_non_forked/vim-snipmate"]
+	path = sources_non_forked/vim-snipmate
+	url = https://github.com/garbas/vim-snipmate
+[submodule "sources_non_forked/vim-surround"]
+	path = sources_non_forked/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "sources_non_forked/vim-jsx"]
+	path = sources_non_forked/vim-jsx
+	url = https://github.com/mxw/vim-jsx
+[submodule "sources_non_forked/gruvbox"]
+	path = sources_non_forked/gruvbox
+	url = https://github.com/morhetz/gruvbox
+[submodule "sources_non_forked/vim-css-color"]
+	path = sources_non_forked/vim-css-color
+	url = https://github.com/ap/vim-css-color
+[submodule "sources_non_forked/vim-javascript"]
+	path = sources_non_forked/vim-javascript
+	url = https://github.com/pangloss/vim-javascript
