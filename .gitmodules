@@ -76,3 +76,9 @@
 [submodule "sources_non_forked/vim-fugitive"]
 	path = sources_non_forked/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "sources_non_forked/vim-multicursor"]
+	path = sources_non_forked/vim-multicursor
+	url = https://github.com/rdnelson/vim-multicursor.git
+[submodule "sources_non_forked/gundo.vim"]
+	path = sources_non_forked/gundo.vim
+	url = https://github.com/sjl/gundo.vim
