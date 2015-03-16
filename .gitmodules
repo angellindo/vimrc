@@ -73,3 +73,6 @@
 [submodule "sources_non_forked/indentLine"]
 	path = sources_non_forked/indentLine
 	url = https://github.com/Yggdroot/indentLine
+[submodule "sources_non_forked/vim-easymotion"]
+	path = sources_non_forked/vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion.git
