@@ -8,8 +8,11 @@ Based on the awesome configuration from amix/vimrc.
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following:
 
 	git clone git://github.com/amix/vimrc.git ~/.vim_runtime
-  git submodule init
-  git submodule update
+	
+  	git submodule init
+  
+  	git submodule update
+  	
 	sh ~/.vim_runtime/install_awesome_vimrc.sh
 
 The taglist.vim plugin will require ctags (http://ctags.sourceforge.net) (Debian: apt-get install ctags)
@@ -76,14 +79,6 @@ Now you have vim-rails installed ;-)
 ## Key Mappings
 
 ### Plugin related mappings
-
-Open [bufexplorer](https://github.com/vim-scripts/bufexplorer.zip) and see and manage the current buffers:
-
-    map <leader>o :BufExplorer<cr>
-
-Open [MRU.vim](https://github.com/vim-scripts/mru.vim) and see the recently open files:
-
-    map <leader>f :MRU<CR>
 
 Open [ctrlp.vim](https://github.com/kien/ctrlp.vim) plugin:
 

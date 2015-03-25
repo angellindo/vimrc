@@ -76,3 +76,15 @@
 [submodule "sources_non_forked/vim-easymotion"]
 	path = sources_non_forked/vim-easymotion
 	url = https://github.com/Lokaltog/vim-easymotion.git
+[submodule "sources_non_forked/vim-fugitive"]
+	path = sources_non_forked/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "sources_non_forked/gundo.vim"]
+	path = sources_non_forked/gundo.vim
+	url = https://github.com/sjl/gundo.vim
+[submodule "sources_non_forked/vim-multiple-cursors"]
+	path = sources_non_forked/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "vim-jst"]
+	path = vim-jst
+	url = https://github.com/briancollins/vim-jst
