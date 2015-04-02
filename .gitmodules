@@ -73,6 +73,9 @@
 [submodule "sources_non_forked/indentLine"]
 	path = sources_non_forked/indentLine
 	url = https://github.com/Yggdroot/indentLine
+[submodule "sources_non_forked/vim-easymotion"]
+	path = sources_non_forked/vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion.git
 [submodule "sources_non_forked/vim-fugitive"]
 	path = sources_non_forked/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
@@ -94,3 +97,6 @@
 [submodule "sources_non_forked/vim-coffee-script"]
 	path = sources_non_forked/vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script
+[submodule "vim-jst"]
+	path = vim-jst
+	url = https://github.com/briancollins/vim-jst
