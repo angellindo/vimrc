@@ -88,9 +88,6 @@
 [submodule "sources_non_forked/vim-bufonly"]
 	path = sources_non_forked/vim-bufonly
 	url = https://github.com/duff/vim-bufonly
-[submodule "sources_non_forked/vim-easymotion"]
-	path = sources_non_forked/vim-easymotion
-	url = git@github.com:Lokaltog/vim-easymotion.git
 [submodule "sources_non_forked/vim-mustache-handlebars"]
 	path = sources_non_forked/vim-mustache-handlebars
 	url = https://github.com/mustache/vim-mustache-handlebars
@@ -100,3 +97,6 @@
 [submodule "sources_non_forked/vim-jst"]
 	path = sources_non_forked/vim-jst
 	url = https://github.com/briancollins/vim-jst.git
+[submodule "sources_non_forked/editorconfig-vim"]
+	path = sources_non_forked/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim
