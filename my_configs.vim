@@ -22,6 +22,9 @@ set smarttab
 " always uses spaces instead of tab characters
 set expandtab
 
+set foldmethod=indent
+set foldlevelstart=20
+
 :map <c-d> Yp
 :map <F11> :bp<CR>
 :map <F12> :bn<CR>
